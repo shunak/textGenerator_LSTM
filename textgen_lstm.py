@@ -24,7 +24,9 @@ indices_char = dict((i,c) for i,c in enumerate(chars))
 
 # print(indices_char)
 
+
 maxlen = 40
+
 
 step = 3
 
